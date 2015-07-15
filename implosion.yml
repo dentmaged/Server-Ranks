@@ -1,0 +1,15 @@
+ranks:
+  owner:
+    members:
+    - 51fe10ee-1252-4cad-a315-fb9b57f16f56
+    - 994142a4-5deb-42ba-be4f-7836fc538c8c
+  op:
+    members: []
+  administrator:
+    members: []
+  moderator:
+    members: []
+  helper:
+    members: []
+  referee:
+    members: []
